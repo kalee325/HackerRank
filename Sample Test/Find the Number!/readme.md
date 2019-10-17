@@ -1,3 +1,5 @@
+# Find the Number!
+
 Given an unsorted array of n elements, find if the element k is present in the array or not.
 Complete the findNumber function. It has 2 parameters.
 
